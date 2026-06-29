@@ -1,0 +1,5 @@
+# Created at 2026-06-25T14:53:30.906
+Boot Manifest-JAR contains absolute paths in classpath 'D:\DOAN\Full-Stack-React-Spring-Boot-Student-Management-System\ems-automation-test\automation-test\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

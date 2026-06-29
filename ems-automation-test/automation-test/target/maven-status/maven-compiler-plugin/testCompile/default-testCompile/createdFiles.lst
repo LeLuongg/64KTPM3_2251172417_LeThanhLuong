@@ -1,0 +1,4 @@
+net\fernandosalas\pages\StudentFormPage.class
+net\fernandosalas\pages\StudentListPage.class
+net\fernandosalas\tests\StudentManagementTest.class
+net\fernandosalas\base\BaseTest.class
